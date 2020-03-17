@@ -7,11 +7,11 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/extMathewJ/workspace/astraia-report/lib/moxy/jakarta.activation.jar"/>
-	<classpathentry kind="lib" path="C:/Users/extMathewJ/workspace/astraia-report/lib/moxy/jakarta.json.jar"/>
-	<classpathentry kind="lib" path="C:/Users/extMathewJ/workspace/astraia-report/lib/moxy/jakarta.mail.jar"/>
-	<classpathentry kind="lib" path="C:/Users/extMathewJ/workspace/astraia-report/lib/moxy/jakarta.validation-api.jar"/>
-	<classpathentry kind="lib" path="C:/Users/extMathewJ/workspace/astraia-report/lib/moxy/jaxb-osgi.jar"/>
-	<classpathentry kind="lib" path="C:/Users/extMathewJ/workspace/astraia-report/lib/moxy/api/jakarta.xml.bind-api.jar"/>
+	<classpathentry kind="lib" path="/astraia-report/lib/moxy/jakarta.activation.jar"/>
+	<classpathentry kind="lib" path="workspace/astraia-report/lib/moxy/jakarta.json.jar"/>
+	<classpathentry kind="lib" path="/workspace/astraia-report/lib/moxy/jakarta.mail.jar"/>
+	<classpathentry kind="lib" path="/workspace/astraia-report/lib/moxy/jakarta.validation-api.jar"/>
+	<classpathentry kind="lib" path="/workspace/astraia-report/lib/moxy/jaxb-osgi.jar"/>
+	<classpathentry kind="lib" path="/workspace/astraia-report/lib/moxy/api/jakarta.xml.bind-api.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
